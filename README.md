@@ -189,7 +189,7 @@ Screenshots provide visual evidence of the infrastructure deployment and impleme
 | Data Collection Rule | Data collection configuration |
 | Alert Configuration | Azure monitoring alerts |
 
-See the [`Screenshots`](Screenshots/](https://github.com/Qaniya/azure-cloud-operations/tree/29034518b8060fa712b5a9d49e408f017c28d92c/Screenshorts)) directory for available project evidence.
+See the [`Screenshorts`](Screenshots/](https://github.com/Qaniya/azure-cloud-operations/tree/29034518b8060fa712b5a9d49e408f017c28d92c/Screenshorts)) directory for available project evidence.
 
 ## Challenges & Learning
 
